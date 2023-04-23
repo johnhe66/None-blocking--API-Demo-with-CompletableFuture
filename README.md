@@ -1,6 +1,6 @@
 # None-blocking--API-Demo-with-CompletableFuture
 # Function Overview
-- This simple app demostrates a non-blocking web API returning a CompletableFuture. 
+- This simple app demostrates a non-blocking web API returning a CompletableFuture with blocking backend processing. 
   To simplify the code, it uses a blocking thread instead of DB.
 - End point: localhost:8080/api/employees
 
